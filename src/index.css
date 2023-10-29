@@ -1,0 +1,47 @@
+.fondo{
+  
+
+    background-image: url(/src/imagenes/fondo.jpg);
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: center;
+    
+    
+  
+  
+  }
+
+
+.container {  
+  color: pink;
+  width: 100%;
+  background-color:black;
+  font-size: 30px;
+  font-style: italic;
+   }
+.logo {
+  border-radius: 50%;
+  width: 100px;
+}
+.diamante{
+  height: 100%;
+  margin: 0;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+
+}
+.prox{
+  font-style: italic;
+  font-size: 100px;
+  height: 100%;
+  margin: 0;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  color: rgb(188, 26, 110);
+}
+.carrito{
+  display: flex;
+  justify-content: end;
+}
