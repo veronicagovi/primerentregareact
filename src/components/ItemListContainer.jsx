@@ -1,4 +1,4 @@
-import React from '/primerentregareact/assets/react'
+import React from '/primerentregareact/react'
 
 const ItemListContainer = ( {greeting} ) => {
   return (
