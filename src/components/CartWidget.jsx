@@ -1,4 +1,4 @@
-import React from '/primerentregareact/react'
+import React from '/primerentregareact/assets/react'
 import { Badge } from '@chakra-ui/react'
 import { Button, ButtonGroup } from '@chakra-ui/react'
 

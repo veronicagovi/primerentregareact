@@ -1,4 +1,4 @@
-import React from '/primerentregareact/react'
+import React from '/primerentregareact/assets/react'
 import NavBar from '/primerentregareact/src/components/NavBar'
 import ItemListContainer from '/primerentregareact/src/components/ItemListContainer'
 import { Progress } from '@chakra-ui/react'

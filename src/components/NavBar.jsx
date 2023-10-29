@@ -1,4 +1,4 @@
-import React from '/primerentregareact/react'
+import React from '/primerentregareact/assets/react'
 import CartWidget from '/primerentregareact/src/components/CartWidget'
 import { Menu, MenuButton, MenuList, MenuItem, Flex, Box, Spacer } from '@chakra-ui/react'
 
