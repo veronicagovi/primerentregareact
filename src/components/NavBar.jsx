@@ -7,7 +7,7 @@ const NavBar = () => {
     <div>        
         <Flex > 
           <Box p='4' >
-          <img className='logo' src={'/src/imagenes/Logo.png '} alt="Logo de la marca"  />
+          <img className='logo' src={'primerentregareact/src/imagenes/Logo.png '} alt="Logo de la marca"  />
           </Box>
           
           <Spacer />
