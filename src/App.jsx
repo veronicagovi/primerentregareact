@@ -1,6 +1,6 @@
 import React from 'react'
-import NavBar from '/primerentregareact/components/NavBar'
-import ItemListContainer from '/primerentregareact/components/ItemListContainer'
+import NavBar from '/primerentregareact/src/components/NavBar'
+import ItemListContainer from '/primerentregareact/src/components/ItemListContainer'
 import { Progress } from '@chakra-ui/react'
 
 
